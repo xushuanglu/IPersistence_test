@@ -47,3 +47,4 @@
 请完善自定义持久层框架IPersistence，在现有代码基础上添加、修改及删除功 能。【需要采用getMapper方式】
 
 IPersistence项目地址： https://github.com/xushuanglu/IPersistence
+IPersistence_test项目地址： https://github.com/xushuanglu/IPersistence_test
